@@ -1,1 +1,18 @@
-# fk.gethub.io
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+    <meta charset="UTF-8">
+    <title>FKKKKKK</title>
+
+</head>
+<body>
+    <div id="main">
+        <img src="https://i0.wp.com/dotsandbrackets.com/wp-content/uploads/2023/09/bliss.jpeg?ssl=1">
+        <h1>САЙТ АХАХХА</h1>
+        <p>Нажми на кнопку! Ничего не произойдет)))</p>
+        <button id="but">ВЗОРВАТЬ</button>
+    </div>
+
+
+</body>
+</html>
